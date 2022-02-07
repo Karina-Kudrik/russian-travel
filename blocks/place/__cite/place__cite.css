@@ -1,0 +1,4 @@
+.place__cite{
+   grid-area: link;
+   align-self: end;
+}

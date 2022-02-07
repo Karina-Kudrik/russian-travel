@@ -1,0 +1,6 @@
+.place__link{
+   color: #FFF;
+}
+.place__link:hover{
+   cursor: pointer;
+}
