@@ -12,8 +12,9 @@
 **Сам проект**
 Проект сверстан на основе макета из редактора Figma. 
 Применены инструменты(насколько это возможно) адаптивной верстки, чтобы сайт приемлемо отображался на самых распространенных разрешениях экранов.
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-* [Ссылка на проект]()
+* Ссылка на макет в Figma [https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0]
+* Ссылка на проект [https://karina-kudrik.github.io/russian-travel/index.html]
+
 **Планы по доработке**
 1. Добавить вендорные префиксы.
 2. Сверстать форму обратной свзязи.
