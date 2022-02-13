@@ -5,3 +5,13 @@
    justify-content: flex-start;
    margin-left: 148px;
 }
+@media (max-width:1024px) {
+   .intro{
+   margin-left: 20px;
+   }
+}
+@media (max-width:768px) {
+   .intro{
+      margin-left: 24px;
+   }
+}

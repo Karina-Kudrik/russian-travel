@@ -13,3 +13,13 @@
    -ms-text-size-adjust: 100%;
    -moz-text-size-adjust: 100%;
 }
+@media (max-width:1024px) {
+   .page{
+      width: 100%;
+   }
+}
+@media (max-width:768px) {
+   .page{
+      width: 100%;
+   }
+}

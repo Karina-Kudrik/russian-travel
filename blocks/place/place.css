@@ -12,3 +12,15 @@
 .place:first-of-type{
    margin-top: 92px;
 }
+@media (max-width:720px){
+.place{
+   display: flex;
+   flex-direction: column;
+}
+}
+@media (min-width: 320px){
+   .place:last-of-type{
+      padding-bottom: 64px;
+      margin-bottom: 0;
+   }
+}

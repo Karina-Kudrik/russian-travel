@@ -2,3 +2,9 @@
    grid-area: link;
    align-self: end;
 }
+@media (max-width:720px){
+   .place__cite{
+      align-self: start;
+      margin-left: 16px;
+   }
+}
